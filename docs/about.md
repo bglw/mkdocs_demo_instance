@@ -14,15 +14,9 @@ some_url: https://example.com
 
 ## Phoebus at *potest* imis sanguinis nisi sacros
 
-\!\!\! note
+!!! note
 
-```apiblueprint
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa.
-```
-
-&nbsp;
+    this is my admonition
 
 Lorem markdownum, [nexu videndi, canities et insania](/nested/test/) Aesone ait exilio solet vidi monstro. Impetus quid illa quae, lintea timide: erat *cum*. Noctem sinistrae vasti me irascentemque toto hostilia dixit, erat, restant ne picae bella docti amentis ubi. Ad rumpere, ait hoc commentaque pars hanc vipereos Assyrii falcato arcuerat viderat consumpserat Arctos, ne nodosaque amplexu.
 
