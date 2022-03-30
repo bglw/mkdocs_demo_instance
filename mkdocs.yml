@@ -1,3 +1,7 @@
 site_name: MkLorum
 site_url: https://example.com/
 theme: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
