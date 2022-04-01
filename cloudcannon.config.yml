@@ -3,7 +3,7 @@ collections_config:
   docs:
     path: "docs"
     output: true
-    url: "/[full_slug]/" # mkdocs' default url behavior for nested files
+    url: "/full_slug:[full_slug]/filename:[filename]/path:[path]/slug:[slug]/base_path:[base_path]/relative_path:[relative_path]/relative_base_path:[relative_base_path]" # mkdocs' default url behavior for nested files
 
 # Where CloudCannon should put new files, and how it should build URLs
 paths:
