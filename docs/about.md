@@ -4,11 +4,11 @@ summary: A brief description of my document.
 authors:
     - Waylan Limberg
     - Tom Christie
-date: 2018-07-10
+date: 2018-07-10T00:00:00Z
 some_url: https://example.com
 ---
 
-# Hoc et hinc
+# Hoc et hinc?
 
 <table><tbody><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
