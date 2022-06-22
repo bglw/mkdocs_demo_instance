@@ -14,9 +14,11 @@ some_url: https://example.com
 
 ## Phoebus at *potest* imis sanguinis nisi sacros
 
-&nbsp;
+<table><tbody><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
-Lorem markdownum, [nexu videndi, canities et insania](/nested/test/) Aesone ait exilio solet vidi monstro. Impetus quid illa quae, lintea timide: erat *cum*. Noctem sinistrae vasti me irascentemque toto hostilia dixit, erat, restant ne picae bella docti amentis ubi. Ad rumpere, ait hoc commentaque pars hanc vipereos Assyrii falcato arcuerat viderat consumpserat Arctos, ne nodosaque amplexu.
+<img src="/creed-bratton-keep-it-running.gif" width="498" height="280" />
+
+Lorem markdownum, [nexu videndi, canities et insania](/nested/test/) Aesone ait exilio solet vidi monstro. Impetus **quid** illa quae, lintea timide: erat *cum*. Noctem sinistrae vasti me irascentemque toto hostilia dixit, erat, restant ne picae bella docti amentis ubi. Ad rumpere, ait hoc commentaque pars hanc vipereos Assyrii falcato arcuerat viderat consumpserat Arctos, ne nodosaque amplexu.
 
 * Ramos tot quoniam puppis populisque arcebat procul
 * Nec nox ponto
