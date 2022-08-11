@@ -7,8 +7,7 @@ authors:
 date: 2018-07-10T00:00:00Z
 some_url: https://example.com
 ---
-
-# Hoc et hinc?
+# Hoc?
 
 <table><tbody><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
@@ -16,7 +15,7 @@ some_url: https://example.com
 
 <table><tbody><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
-<img src="/creed-bratton-keep-it-running.gif" width="498" height="280" />
+<img width="498" height="280" src="/creed-bratton-keep-it-running.gif" />
 
 Lorem markdownum, [nexu videndi, canities et insania](/nested/test/) Aesone ait exilio solet vidi monstro. Impetus **quid** illa quae, lintea timide: erat *cum*. Noctem sinistrae vasti me irascentemque toto hostilia dixit, erat, restant ne picae bella docti amentis ubi. Ad rumpere, ait hoc commentaque pars hanc vipereos Assyrii falcato arcuerat viderat consumpserat Arctos, ne nodosaque amplexu.
 
