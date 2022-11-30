@@ -7,7 +7,7 @@ authors:
 date: 2018-07-10T00:00:00Z
 some_url: https://example.com
 ---
-# Hoc?
+# This is a Headline
 
 ​​​​​​
 
