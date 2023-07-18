@@ -32,7 +32,7 @@ Essem est causa adfusaque quaeque. Et filia secreta.
 
 Troica inrequieta referam tibi nisi [terraeque](http://est-vocabis.org/manusque.html) tendentem formatum. Quoque festa *pariterque nunc* demisit hac vel, arboris ultimus squamigeris. Unda genus herbae Gigantas te tutius mollia rediit, hoc perpetuaque in herbis variis, et.
 
-Onus non, loco toto, mortemque domum corpus, et baculum ferro! Tamen et, quid ita, *referebat*! Ulixes flumina hic poenas natus Parrhasis vocat virginis bella ut cum iam adfer, est. Pallentemque facis perfudit pinum subiectis parenti micat, adgrediare fronde: Pelias velox porrexit gurgite. Feris quaeritur venenis me numina arte sequiturque Burin, erat ignari *specieque*, illi sed servasset!
+Onus non, loco toto, mortemque domum corpu<sup>s, et bacu</sup>lum ferro! Tamen et, quid ita, *referebat*! Ulixes flumina hic poenas natus Parrhasis vocat virginis bella ut cum iam adfer, est. Pallentemque facis perf**udit pinum subiectis parenti micat, adgrediare fronde: Pelias velox porrexit gurgite. Feris quaeritur ve**nenis me numina arte sequiturque Burin, erat ignari *specieque*, illi sed servasset!
 
 Parili redde numeroque vidisti se deque forsitan nec idem demisere: vectus extemplo, in. Dat ait, deciperetur quem nos est forma deos requiris? Meritum voluit, primique in unde noviens silvamque sequitur se siquis murmure quaeque duobus ferrum decens.
 
