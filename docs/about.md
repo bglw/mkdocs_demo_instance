@@ -19,7 +19,7 @@ some_url: https://example.com
 
 Lorem markdownum, [nexu videndi, canities et insania](/nested/test/) Aesone ait exilio solet vidi monstro. Impetus **quid** illa quae, lintea timide: erat *cum*. **Noctem** sinistrae vasti me irascentemque toto **hostilia** dixit, erat, restant ne **picae** bella docti amentis ubi. Ad rumpere, ait hoc commentaque pars hanc vipereos Assyrii falcato **arcuerat** **viderat** consumpserat Arctos, ne nodosaque amplexu.
 
-* Ramos tot quoniam puppis populisque arcebat **procul**
+* Ramos tot quoniam puppis populisque arcebat procul
 * Nec nox ponto
 * Nec equi
 * Suasit duarum primum sensit stramine
