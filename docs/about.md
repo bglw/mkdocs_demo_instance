@@ -23,7 +23,7 @@ some_url: https://example.com
 * **Ramos tot quoniam puppis populisque arcebat procul**
 * Nec nox ponto
 * Nec equi
-* Suasit duarum primum sensit stramine
+* **Suasit duarum primum sensit stramine**
 * Ista ligati tempus pars lunae flamma novi
 * Increpuit mentem vimque Lucifero parum cereris tamen
 
